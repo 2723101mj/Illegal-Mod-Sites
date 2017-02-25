@@ -49,7 +49,8 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | bigminecraft ru                         |      3      |        5       |   3   |       |
 | bnstbns pro                             |      5      |        5       |   5   | **Malware alert!** |
 | c-raft ru                               |      1      |        5       |   5   |       |
-| clubminecraftbr blogspot com            |      1      |        5       |   3   |       |
+| cloudalts.net                           |      1      |        5       |   3   | **Alt account** |
+| clubminecraftbr blogspot com            |      1      |        5       |   3   |       |
 | comoinstalarmodsminecraft com br        |      3      |        1       |   3   |       |
 | crafthd net                             |      3      |        5       |   1   |       |
 | craftzon ru                             |      4      |        5       |   5   |       |
@@ -114,7 +115,8 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | mcdownloads ru                          |      1      |        5       |   3   |       |
 | mcmoddatabase com                       |      3      |        5       |   5   | **Malware alert!** |
 | mcmodkit com                            |      5      |        5       |   1   |       |
-| mcmods ru                               |      3      |        5       |   3   |       |
+| mcleaks.net                             |      1      |        5       |   3   | **Alt account** |
+| mcmods ru                               |      3      |        5       |   3   |       |
 | mcmodteam blogspot de                   |      5      |        5       |   1   | No activity since 16th november 2014 |
 | mcpatcher net                           |      1      |        1       |   5   | **Malware alert!** |
 | mcpebox com                             |      3      |        5       |   2   |       |
